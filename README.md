@@ -1,0 +1,1 @@
+# Quick-guide-for-converting-from-JAGS-or-BUGS-to-NIMBLE
